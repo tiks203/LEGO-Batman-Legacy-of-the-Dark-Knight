@@ -2,7 +2,7 @@
 
 # LEGO Batman: Legacy of the Dark Knight PC Resource
 
-[![Stars](https://img.shields.io/github/stars/)](https://github.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight)](https://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **LEGO Batman: Legacy of the Dark Knight** is the next-generation evolution of the beloved DC brick-building franchise. Officially launching on **May 22, 2026**, this PC resource provides a high-performance environment for managing Unreal Engine 5 assets, open-world Gotham City configurations, and the reimagined fluid combat system. This 2026 optimized build supports the latest 16GB RAM optimization, 4K ray-traced visuals, and includes digital metadata for the physical LEGO set unlocks, including the exclusive Gold Batsuit and legendary Batmobile variants.
 Explore the origin of the Caped Crusader—from the League of Shadows to the rooftops of Gotham—with zero-latency synchronization, advanced character metadata editing, and professional save data preservation.
